@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/Disney_Plus/static/css/main.9bde385c.chunk.css",
-    "main.js": "/Disney_Plus/static/js/main.6ee334f4.chunk.js",
-    "main.js.map": "/Disney_Plus/static/js/main.6ee334f4.chunk.js.map",
+    "main.js": "/Disney_Plus/static/js/main.b15b9471.chunk.js",
+    "main.js.map": "/Disney_Plus/static/js/main.b15b9471.chunk.js.map",
     "runtime-main.js": "/Disney_Plus/static/js/runtime-main.cd08841f.js",
     "runtime-main.js.map": "/Disney_Plus/static/js/runtime-main.cd08841f.js.map",
     "static/css/2.4975c8ec.chunk.css": "/Disney_Plus/static/css/2.4975c8ec.chunk.css",
-    "static/js/2.b01eeb98.chunk.js": "/Disney_Plus/static/js/2.b01eeb98.chunk.js",
-    "static/js/2.b01eeb98.chunk.js.map": "/Disney_Plus/static/js/2.b01eeb98.chunk.js.map",
+    "static/js/2.61b26180.chunk.js": "/Disney_Plus/static/js/2.61b26180.chunk.js",
+    "static/js/2.61b26180.chunk.js.map": "/Disney_Plus/static/js/2.61b26180.chunk.js.map",
     "index.html": "/Disney_Plus/index.html",
     "static/css/2.4975c8ec.chunk.css.map": "/Disney_Plus/static/css/2.4975c8ec.chunk.css.map",
     "static/css/main.9bde385c.chunk.css.map": "/Disney_Plus/static/css/main.9bde385c.chunk.css.map",
-    "static/js/2.b01eeb98.chunk.js.LICENSE.txt": "/Disney_Plus/static/js/2.b01eeb98.chunk.js.LICENSE.txt",
+    "static/js/2.61b26180.chunk.js.LICENSE.txt": "/Disney_Plus/static/js/2.61b26180.chunk.js.LICENSE.txt",
     "static/media/cruela.fbf2e8ed.png": "/Disney_Plus/static/media/cruela.fbf2e8ed.png",
-    "static/media/home-background.a0c4bdd9.png": "/Disney_Plus/static/media/home-background.a0c4bdd9.png",
     "static/media/home-icon.b6a11f9b.svg": "/Disney_Plus/static/media/home-icon.b6a11f9b.svg",
     "static/media/id.02ea250d.jpg": "/Disney_Plus/static/media/id.02ea250d.jpg",
     "static/media/jungle.10cb7afd.png": "/Disney_Plus/static/media/jungle.10cb7afd.png",
     "static/media/lion.ffd27dd2.png": "/Disney_Plus/static/media/lion.ffd27dd2.png",
+    "static/media/logo.8205aae8.svg": "/Disney_Plus/static/media/logo.8205aae8.svg",
     "static/media/movie-icon.1a6f6ada.svg": "/Disney_Plus/static/media/movie-icon.1a6f6ada.svg",
     "static/media/original-icon.d7752d89.svg": "/Disney_Plus/static/media/original-icon.d7752d89.svg",
     "static/media/original.b9da7218.jfif": "/Disney_Plus/static/media/original.b9da7218.jfif",
@@ -28,13 +28,17 @@
     "static/media/slider-badging.b33dd5b6.jpg": "/Disney_Plus/static/media/slider-badging.b33dd5b6.jpg",
     "static/media/snowman.ae0895cb.jfif": "/Disney_Plus/static/media/snowman.ae0895cb.jfif",
     "static/media/toy.bbbf3d3c.png": "/Disney_Plus/static/media/toy.bbbf3d3c.png",
-    "static/media/watchlist-icon.0b5a945b.svg": "/Disney_Plus/static/media/watchlist-icon.0b5a945b.svg"
+    "static/media/viewers-disney.eb5bab59.png": "/Disney_Plus/static/media/viewers-disney.eb5bab59.png",
+    "static/media/viewers-national.c50dd65f.png": "/Disney_Plus/static/media/viewers-national.c50dd65f.png",
+    "static/media/viewers-starwars.3fb2e20c.png": "/Disney_Plus/static/media/viewers-starwars.3fb2e20c.png",
+    "static/media/watchlist-icon.0b5a945b.svg": "/Disney_Plus/static/media/watchlist-icon.0b5a945b.svg",
+    "static/media/whales.94fbdcd7.png": "/Disney_Plus/static/media/whales.94fbdcd7.png"
   },
   "entrypoints": [
     "static/js/runtime-main.cd08841f.js",
     "static/css/2.4975c8ec.chunk.css",
-    "static/js/2.b01eeb98.chunk.js",
+    "static/js/2.61b26180.chunk.js",
     "static/css/main.9bde385c.chunk.css",
-    "static/js/main.6ee334f4.chunk.js"
+    "static/js/main.b15b9471.chunk.js"
   ]
 }
